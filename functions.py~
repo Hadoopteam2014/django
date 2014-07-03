@@ -1,0 +1,10 @@
+import python
+
+def add(i,j):
+  a = i
+  b = j 
+  z = a+b
+  return z
+
+add(2,3)
+print z
